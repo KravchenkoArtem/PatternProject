@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_PatternProject.-158739466.00" t="ExcludeRecursive" />
+    <e p="C:\Users\User\Desktop\UnityProject\PatternProject" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AboutPattern.cs" t="Include" />
+        <e p="InterfacesOrAbstract.cs" t="Include" />
+        <e p="RelationBetweenClassesandObjects.cs" t="Include" />
+        <e p="Паттерны поведения" t="Include">
+          <e p="Command.cs" t="Include" />
+          <e p="Iterator.cs" t="Include" />
+          <e p="Observer.cs" t="Include" />
+          <e p="Strategy.cs" t="Include" />
+          <e p="Template.cs" t="Include" />
+        </e>
+        <e p="Порождающие Паттерны" t="Include">
+          <e p="AbstractFabricPattern.cs" t="Include" />
+          <e p="Builder.cs" t="Include" />
+          <e p="FabricPattern.cs" t="Include" />
+          <e p="Prototype.cs" t="Include" />
+          <e p="Singleton.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PatternProject.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
